@@ -36,6 +36,19 @@ Welcome to **khelo.com**! This is an exciting collection of fun and interactive 
      
 6. **2048**
    - Slide tiles to combine them and reach the ultimate goal of 2048!
+7. **snake**
+   - A classic snake game where you control a snake to collect food. The more food you collect, the longer the snake gets.
+   - Avoid hitting the walls and your own tail!
+     
+8. **hangman**
+   - Guess the letters to reveal a country in this fun hangman game! You have a limited number of attempts.
+   -  If you run out, the game is over!
+   -  A hint will be given when you're close to losing.
+     
+9. **guess Game**
+    - Guess a number between 1 and 50. You have a limited number of attempts.
+    - after each guess, you'll get feedback whether the number is higher or lower.
+    - Can you guess the correct number?
 
 ## Technologies Used
 
